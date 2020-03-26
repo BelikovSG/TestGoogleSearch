@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test Google Search</string>
+    <string name="finding">Ищем</string>
+    <string name="find">Найти</string>
+</resources>
